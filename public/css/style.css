@@ -43,7 +43,7 @@ nav {
 }
 
 main {
-    background-image: url("./public/images/front.jpg");
+    background-image: url("../images/front.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;

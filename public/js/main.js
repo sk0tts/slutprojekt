@@ -5,7 +5,7 @@ var srcs = [
     "https://pbs.twimg.com/profile_images/1270019380173320195/gvKnMLf3.jpg",
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNs_KOVYZML9IWriyzptyMWLyj0S5xM8kUkA&usqp=CAU",
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmFvggFYmw8RLALhwNdyIoWwpAOcESw0UVsw&usqp=CAU",
-    "/public/images/ajdå.png",
+    "./public/images/ajdå.png",
     "https://i.pinimg.com/236x/47/82/90/478290ff66e11c4f49d060d50bb1d971--la-sede-stockholm-sweden.jpg",
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxtRPYUuRPBkPpi877rW4oBXkWDGtgvGIkWQ&usqp=CAU",
     "https://www.maringuiden.se/forum/uploads/monthly_2019_05/260015034_VirBajen.jpg.d44b1e50c7ae6204acb306d1b9b34d08.jpg",
